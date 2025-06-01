@@ -105,6 +105,17 @@ This project outlines adding computer(s) to the Domain Controller.<br />
 <img src="https://github.com/user-attachments/assets/f7fabd37-2b0a-4985-89b3-39ffbdb8f28b" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
+### Within the client machine, request traffic from the domain by pinging the domain name, and the domain's IP address
+<p>
+<img src="https://github.com/user-attachments/assets/e2492b6f-580a-4076-aa66-6d7d79bc2759" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/9bb581c2-6d0b-4cb4-b934-b24db022e84c" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/ec076b2c-09b1-47d1-aede-6a8024f423c6" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
 
 
 
