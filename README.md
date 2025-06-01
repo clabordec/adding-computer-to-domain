@@ -52,16 +52,34 @@ This project outlines adding computer(s) to the Domain Controller.<br />
 <img src="https://github.com/user-attachments/assets/05155499-0521-4536-b20f-efa3ca78f1ad" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### The following message will appear after the admin credentials has been provided
+### The following message will appear after the admin credentials has been provided, click Ok
 <p>
 <img src="https://github.com/user-attachments/assets/982eb785-63de-4844-8e21-285fc2e244a7" width="550" alt="Disk Sanitization Steps"/>
 </p>
+
+### Click Ok
 <p>
 <img src="https://github.com/user-attachments/assets/bd3dca78-b7c3-4a02-92e4-c7e6d8eef44c" width="550" alt="Disk Sanitization Steps"/>
 </p>
+
+### Close the Computer Name/Domain Changes screen, then click Restart Now
 <p>
 <img src="https://github.com/user-attachments/assets/ed81b14f-1164-412f-90c4-2cae674516a7" width="550" alt="Disk Sanitization Steps"/>
 </p>
+
+### Log into the Server and verify that the following computer has been added
+<p>
+<img src="https://github.com/user-attachments/assets/a4a16977-059e-4c69-89ca-9cd9815aa8e3" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### In the login screen, scroll down to view the instructions on how to log into the domain
+<p>
+<img src="https://github.com/user-attachments/assets/a4a16977-059e-4c69-89ca-9cd9815aa8e3" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/a4a16977-059e-4c69-89ca-9cd9815aa8e3" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
 
 
 
