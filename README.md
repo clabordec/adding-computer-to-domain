@@ -12,10 +12,18 @@ This project outlines adding computer(s) to the Domain Controller.<br />
 - VMware Workstation Pro (Virtual Machines/Compute)
 - Active Directory Domain Services
 
+
+<br>
+
+
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
 - Windows 10 Pro
+
+
+<br>
+
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
@@ -23,6 +31,10 @@ This project outlines adding computer(s) to the Domain Controller.<br />
 - Select Domain, enter domain name
 - Provide domain admin credentials when prompted
 - Restart the computer
+
+
+<br>
+
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -67,15 +79,34 @@ This project outlines adding computer(s) to the Domain Controller.<br />
 <img src="https://github.com/user-attachments/assets/ed81b14f-1164-412f-90c4-2cae674516a7" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
+<br>
+
+## Verifying the changes
+### When logging into the client machine, scroll down to view the instructions on how to log into the domain
+<p>
+<img src="https://github.com/user-attachments/assets/885e130b-14c1-4b5c-b251-4fdaff620013" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
 ### Log into the Server and verify that the following computer has been added
 <p>
 <img src="https://github.com/user-attachments/assets/a4a16977-059e-4c69-89ca-9cd9815aa8e3" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### In the login screen, scroll down to view the instructions on how to log into the domain
+### Open up File Explorer, right-click on This PC, then go to Properties
 <p>
-<img src="https://github.com/user-attachments/assets/885e130b-14c1-4b5c-b251-4fdaff620013" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/44d1b1ea-71f0-4f5f-ab55-71aeedf60bdf" width="550" alt="Disk Sanitization Steps"/>
 </p>
+
+### The device name will match the name of the machine within Active Directory Users and Computers - Computers OU
+<p>
+<img src="https://github.com/user-attachments/assets/36a6a763-07a8-4af3-98dd-9719158b8ff4" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/f7fabd37-2b0a-4985-89b3-39ffbdb8f28b" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
 
 
 
