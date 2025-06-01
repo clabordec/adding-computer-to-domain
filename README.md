@@ -116,12 +116,9 @@ This project outlines adding computer(s) to the Domain Controller.<br />
 <img src="https://github.com/user-attachments/assets/ec076b2c-09b1-47d1-aede-6a8024f423c6" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
+---
+
+<br />
 
 
-
-
-
-
-
-
-
+# End of Project
