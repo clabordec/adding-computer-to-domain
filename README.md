@@ -74,11 +74,9 @@ This project outlines adding computer(s) to the Domain Controller.<br />
 
 ### In the login screen, scroll down to view the instructions on how to log into the domain
 <p>
-<img src="https://github.com/user-attachments/assets/a4a16977-059e-4c69-89ca-9cd9815aa8e3" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/885e130b-14c1-4b5c-b251-4fdaff620013" width="550" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-<img src="https://github.com/user-attachments/assets/a4a16977-059e-4c69-89ca-9cd9815aa8e3" width="550" alt="Disk Sanitization Steps"/>
-</p>
+
 
 
 
