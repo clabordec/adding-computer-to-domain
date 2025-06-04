@@ -31,7 +31,7 @@ This project outlines adding computer(s) to the Domain Controller.<br />
 <br>
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h1>Deployment and Configuration Steps</h1>
 
 ## Adding the computer to the Domain
 ### Right-click on the Windows Start Menu, then choose System
